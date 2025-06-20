@@ -59,7 +59,7 @@ const Login2 = () => {
                     mb={1}
                     mt={1}
                   >
-                    Selamat Datang di Aplikasi Pemilihan Dosen berprestasi
+                    Selamat Datang di Aplikasi Penilaian Dosen berprestasi
                   </Typography>
                 }
                 subtitle={
