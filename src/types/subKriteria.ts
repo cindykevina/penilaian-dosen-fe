@@ -6,4 +6,5 @@ export interface SubKriteria {
   kriteriaId: number;
   kriteria: Kriteria
   nilaiMaksimal: number;
+  bobot: number;
 }
