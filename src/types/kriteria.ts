@@ -4,4 +4,5 @@ export interface Kriteria {
   deskripsi: string;
   jenis: string;
   bobot: number;
+  nilaiMaksimal: number;
 }
